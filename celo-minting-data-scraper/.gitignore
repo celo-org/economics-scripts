@@ -1,0 +1,6 @@
+node_modules
+data
+yarn-error.log
+package-lock.json
+.idea/
+.DS_Store

@@ -1,0 +1,21 @@
+{
+  "name": "celo-minting-data-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "npx ts-node scrape.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@celo/contractkit": "^1.0.2",
+    "bignumber.js": "^9.0.1",
+    "convert-array-to-csv": "^2.0.0",
+    "objects-to-csv": "^1.3.6",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3",
+    "web3-eth-contract": "^1.3.6"
+  }
+}
