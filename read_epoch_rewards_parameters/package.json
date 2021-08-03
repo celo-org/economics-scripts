@@ -1,0 +1,11 @@
+{
+  "name": "read_contract_parameters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tobias Kuhlmann, Nelson Taveras",
+  "license": "MIT",
+  "dependencies": {
+    "@celo/contractkit": "^1.2.4",
+    "bignumber.js": "^9.0.1"
+  }
+}
