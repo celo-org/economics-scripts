@@ -5,7 +5,7 @@
   "author": "Tobias Kuhlmann, Nelson Taveras",
   "license": "MIT",
   "dependencies": {
-    "@celo/contractkit": "^1.2.4",
+    "@celo/contractkit": "^1.3.0",
     "bignumber.js": "^9.0.1"
   }
 }
